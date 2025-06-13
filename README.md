@@ -1,0 +1,1 @@
+训练结果见master分支,train/exp为yolov11训练结果,detect/train3为yolov5训练结果
